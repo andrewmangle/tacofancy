@@ -63,6 +63,9 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 Endnotes
 --------
 
+I was here - @andrewmangle
+
+
 This whole thing began on a cold November evening with the warmth of some [steak, sweet potato, and apple tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md) aglow in my belly. It started with just three recipes in it. Now it has well over a hundred. Nice job, world.
 
 Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
